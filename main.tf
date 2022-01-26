@@ -19,7 +19,7 @@ terraform {
   }
 }
 
-#random comment
+
 
 provider "aws" {
   region = "us-east-1"
